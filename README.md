@@ -95,7 +95,7 @@ _تشغيل SLAM في Terminal جديد_
 
 `$ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping`
 
-*اختر نموذج الروبوت المستخدم لتشغيل المحاكي -burger or waffle or waffle_pi-.
+*اختر ذات نموذج الروبوت المستخدم لتشغيل المحاكي -burger or waffle or waffle_pi-.
 
 3-3
 _في Terminal 2-3 جديد نستخدم أمر تحريك الروبوت من الخطوة السابقة_
