@@ -112,5 +112,9 @@ _حفظ الخريطة بعد الإنتهاء_
   
 https://robots.ros.org/
 
-- 
+- لقاء التدريب الثامن لمهمة الروبوت
+  
+  https://youtu.be/0iPByiZVHFw?t=3989
+  
+ - 
 </div>
